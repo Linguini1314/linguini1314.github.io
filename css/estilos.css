@@ -101,10 +101,10 @@ header.abajo{
 }
 
 .wave{
-    position: absolute;
+    position: static;
     bottom: 0;
     width: 200%;
-    padding: 25px;
+    padding: 0px;
 }
 
 .igma{
